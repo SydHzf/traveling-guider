@@ -163,7 +163,7 @@ public class Hotel extends javax.swing.JFrame {
         });
         getContentPane().add(jButton3, new org.netbeans.lib.awtextra.AbsoluteConstraints(870, 0, -1, -1));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("F:\\UBIT\\Subject\\Semister 4\\DSA\\h.jpg")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\DELL\\Documents\\NetBeansProjects\\DS\\images\\h1.jpg")); // NOI18N
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, -1));
 
         setSize(new java.awt.Dimension(951, 557));

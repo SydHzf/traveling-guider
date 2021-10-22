@@ -119,7 +119,7 @@ public class ShortestPath extends javax.swing.JFrame {
         });
         getContentPane().add(jButton2, new org.netbeans.lib.awtextra.AbsoluteConstraints(870, 0, -1, -1));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("F:\\UBIT\\Subject\\Semister 4\\DSA\\h3.jpg")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\DELL\\Documents\\NetBeansProjects\\DS\\images\\h3.jpg")); // NOI18N
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, -1));
 
         pack();

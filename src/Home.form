@@ -134,7 +134,7 @@
                 <Component class="javax.swing.JLabel" name="jLabel3">
                   <Properties>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="2" name="F:\UBIT\Subject\Semister 4\DSA\4.png"/>
+                      <Image iconType="2" name="C:\Users\DELL\Documents\NetBeansProjects\DS\images\4.png"/>
                     </Property>
                   </Properties>
                 </Component>
@@ -244,7 +244,7 @@
                 <Component class="javax.swing.JLabel" name="jLabel1">
                   <Properties>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="2" name="F:\UBIT\Subject\Semister 4\DSA\5.png"/>
+                      <Image iconType="2" name="C:\Users\DELL\Documents\NetBeansProjects\DS\images\5.png"/>
                     </Property>
                   </Properties>
                 </Component>
@@ -346,7 +346,7 @@
                 <Component class="javax.swing.JLabel" name="jLabel2">
                   <Properties>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="2" name="F:\UBIT\Subject\Semister 4\DSA\3.png"/>
+                      <Image iconType="2" name="C:\Users\DELL\Documents\NetBeansProjects\DS\images\3.png"/>
                     </Property>
                   </Properties>
                 </Component>
